@@ -7,6 +7,7 @@ body {
     padding: 0 !important;
     -ms-overflow-style: none !important;
     scrollbar-width: none !important;
+    background-color: #9a031e;
 }
 
 body::-webkit-scrollbar {
@@ -15,12 +16,12 @@ body::-webkit-scrollbar {
 
 .font-esthetic {
     font-family: 'Sacramento', cursive !important;
-    color: #ff9933 !important;
+    color: #9a2903 !important;
 }
 
 .font-arabic {
     font-family: 'Noto Naskh Arabic', serif !important;
-    color: #ff9933 !important;
+    color: #9a2903 !important;
 }
 
 .img-crop {
@@ -50,7 +51,7 @@ body::-webkit-scrollbar {
     inset: 0 !important;
     width: 100%;
     height: 100%;
-    background-color: #111111;
+    background-color: #9a031e;
     z-index: 1056 !important;
 }
 
@@ -115,7 +116,8 @@ body::-webkit-scrollbar {
 }
 
 footer {
-    background-color: #111111 !important;
+    background-color: #FFBCB5 !important;
     margin-top: -0.5rem;
     padding-bottom: 5rem;
+    color:black
 }
